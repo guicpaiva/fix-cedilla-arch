@@ -22,13 +22,13 @@ O script utiliza o **Fcitx5** como framework de entrada. Ele intercepta a digita
 2. Dê permissão de execução:
 
 ```bash
-chmod +x fix-cedilla.sh
+chmod +x fix-cedilla-arch.sh
 ```
 
 3. Execute o script:
 
 ```Bash
-./fix-cedilla.sh
+./fix-cedilla-arch.sh
 ```
 
 Reinicie o computador para aplicar todas as mudanças de variáveis de ambiente.
@@ -38,7 +38,7 @@ Reinicie o computador para aplicar todas as mudanças de variáveis de ambiente.
 Se por algum motivo você quiser remover as alterações, o script possui uma função de reversão:
 
 ```Bash
-./fix-cedilla.sh --revert
+./fix-cedilla-arch --revert
 ```
 
 🤝 Créditos
