@@ -18,23 +18,28 @@ O script utiliza o **Fcitx5** como framework de entrada. Ele intercepta a digita
    ```bash
    git clone [https://github.com/SEU_USUARIO/fix-cedilla-arch.git](https://github.com/SEU_USUARIO/fix-cedilla-arch.git)
    cd fix-cedilla-arch
+   
 2. Dê permissão de execução:
 
 ```bash
 chmod +x fix-cedilla.sh
 ```
-Execute o script:
+
+3. Execute o script:
 
 ```Bash
 ./fix-cedilla.sh
 ```
+
 Reinicie o computador para aplicar todas as mudanças de variáveis de ambiente.
 
 🔄 Como Reverter
+
 Se por algum motivo você quiser remover as alterações, o script possui uma função de reversão:
 
 ```Bash
 ./fix-cedilla.sh --revert
 ```
+
 🤝 Créditos
 Este script é um fork/adaptação para Arch Linux do projeto original fix-cedilla-popos de @walcew, que foi desenvolvido inicialmente para Pop!_OS.
