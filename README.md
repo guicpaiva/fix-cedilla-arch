@@ -15,9 +15,11 @@ O script utiliza o **Fcitx5** como framework de entrada. Ele intercepta a digita
 ## 📦 Instalação
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/guicpaiva/fix-cedilla-arch.git
-   cd fix-cedilla-arch
+
+```bash
+git clone https://github.com/guicpaiva/fix-cedilla-arch.git
+cd fix-cedilla-arch
+```
    
 2. Dê permissão de execução:
 
@@ -31,7 +33,7 @@ chmod +x fix-cedilla-arch.sh
 ./fix-cedilla-arch.sh
 ```
 
-Reinicie o computador para aplicar todas as mudanças de variáveis de ambiente.
+4. Reinicie o computador para aplicar todas as mudanças de variáveis de ambiente.
 
 🔄 Como Reverter
 
