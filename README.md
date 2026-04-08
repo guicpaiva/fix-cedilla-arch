@@ -42,4 +42,5 @@ Se por algum motivo você quiser remover as alterações, o script possui uma fu
 ```
 
 🤝 Créditos
+
 Este script é um fork/adaptação para Arch Linux do projeto original fix-cedilla-popos de @walcew, que foi desenvolvido inicialmente para Pop!_OS.
