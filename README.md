@@ -35,7 +35,7 @@ chmod +x fix-cedilla-arch.sh
 
 4. Reinicie o computador para aplicar todas as mudanças de variáveis de ambiente.
 
-🔄 Como Reverter
+## 🔄 Como Reverter
 
 Se por algum motivo você quiser remover as alterações, o script possui uma função de reversão:
 
@@ -43,6 +43,6 @@ Se por algum motivo você quiser remover as alterações, o script possui uma fu
 ./fix-cedilla-arch --revert
 ```
 
-🤝 Créditos
+## 🤝 Créditos
 
 Este script é um fork/adaptação para Arch Linux do projeto original fix-cedilla-popos de @walcew, que foi desenvolvido inicialmente para Pop!_OS.
