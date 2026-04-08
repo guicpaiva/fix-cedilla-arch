@@ -16,7 +16,7 @@ O script utiliza o **Fcitx5** como framework de entrada. Ele intercepta a digita
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/fix-cedilla-arch.git](https://github.com/SEU_USUARIO/fix-cedilla-arch.git)
+   git clone https://github.com/guicpaiva/fix-cedilla-arch.git
    cd fix-cedilla-arch
    
 2. Dê permissão de execução:
