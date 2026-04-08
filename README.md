@@ -22,13 +22,14 @@ O script utiliza o **Fcitx5** como framework de entrada. Ele intercepta a digita
 
 ```bash
 chmod +x fix-cedilla.sh
-Execute o script:
 ```
+Execute o script:
 
 ```Bash
 ./fix-cedilla.sh
-Reinicie o computador para aplicar todas as mudanças de variáveis de ambiente.
 ```
+Reinicie o computador para aplicar todas as mudanças de variáveis de ambiente.
+
 🔄 Como Reverter
 Se por algum motivo você quiser remover as alterações, o script possui uma função de reversão:
 
