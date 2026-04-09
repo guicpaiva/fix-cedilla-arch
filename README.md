@@ -1,6 +1,6 @@
 # Fix Cedilha (ç) - Arch / CachyOS / Wayland
 
-Este script corrige o problema comum em distribuições baseadas em Arch Linux (como CachyOS) onde a combinação de teclas `'` + `c` resulta no caractere `ć` em vez de `ç`, especialmente em aplicações baseadas em Chromium/Electron (Brave, Chrome, VS Code, Discord) rodando em Wayland.
+Este script corrige o problema comum em distribuições baseadas em Arch Linux (como CachyOS) utilizando o Cosmic, onde a combinação de teclas `'` + `c` resulta no caractere `ć` em vez de `ç`, especialmente em aplicações baseadas em Chromium/Electron (Brave, Chrome, VS Code, Discord) rodando em Wayland.
 
 ## 🚀 Como funciona?
 O script utiliza o **Fcitx5** como framework de entrada. Ele intercepta a digitação, aplica as regras do seu `.XCompose` e entrega o caractere correto para as aplicações, ignorando a lógica interna "quebrada" do Chromium.
